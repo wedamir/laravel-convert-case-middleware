@@ -17,7 +17,7 @@ Laravel 5.2+
 Installation
 -
 
-1. `composer require tomlerendu/laravel-convert-case-middleware`
+1. `composer require wedamir/laravel-convert-case-middleware`
 2. Add the middleware to the appropriate group in `App\Http\Kernel.php`. For example
 
 ```
